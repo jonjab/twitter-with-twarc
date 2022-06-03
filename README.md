@@ -2,30 +2,27 @@
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
-**This lesson is headed towards The Carpentries Incubator!**
-Initial runs of this lesson will happen at UCSB in May 2022.
+An initial run of this lesson was conducted at UCSB in May 2022.
 
-A member of the [Carpentries Curriculum Team](https://carpentries.org/team/)
-will work with you to get your lesson listed on the
-[Community Developed Lessons page][community-lessons]
-and make sure you have everything you need to begin developing your new lesson.
+This is a 5 hour Carpentries lesson on using the twarc2 Python application to harvest Tweets 
+using the Twitter v2 API in a Jupyter environment. The lesson reinforces core BASH directory 
+structure management, input- and output- arguments, Python dataframe, sorting, and counting
+functions.
 
-## What to do next
+Proper research data management topics, including respectful community archiving, attention
+to consent, respect for personhood and privacy, and adherence to Twitter's Terms of Service
+and the European Union's General Data Protection Regulation are included throughout.
 
-- ** UCSB team: ** Continue to flesh out [this gDoc outline](https://docs.google.com/document/d/1Xz6qFmgZOjjzqWy_YsWvxRfuKxbd3V2aLElS4m1ZIcU/edit?usp=sharing)
-- Claim an episode Jira ticket if you feel a lesson is ready to be moved over and 
-outlined directly in this repo.
+## What comes next?
+
+- We are currently working on standardizing and shortening filenames throughout the entire lesson.
+- We would love feedback on this work!
+- Check the [issues](issues)!
 
 There's still a little Carpentry advice:
-* [ ] [Add relevant topic tags to your lesson repository][cdh-topic-tags].
 * [ ] Fill in the fields marked `FIXME` in:
   * this README
   * [`_config.yml`](_config.yml)
-* [*] Consult the [Lesson Example][lesson-example] website to find out more about
-  working with the lesson template
-* [ ] Update this README with relevant information about your lesson
-  and delete this section
-
 
 ## Contributing
 
@@ -44,7 +41,6 @@ Current maintainers of this lesson are
 
 * Jon Jablonski (not officially a Carpentry Maintainter)
 * Amanda Ho
-* FIXME
 
 
 ## Authors
